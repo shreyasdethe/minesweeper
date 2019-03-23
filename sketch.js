@@ -30,7 +30,7 @@ class Cell{
 	show(){
 		stroke(0);
 		strokeWeight(1);
-		fill(50);
+		fill(250);
 		rect(this.x, this.y, 10, 10);
 	}
 }
